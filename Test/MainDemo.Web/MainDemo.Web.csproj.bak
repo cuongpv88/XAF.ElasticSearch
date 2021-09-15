@@ -58,193 +58,181 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.ExpressApp.Notifications.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Notifications.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Notifications.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Notifications.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.ReportsV2.v21.2">
+    <Reference Include="DevExpress.ExpressApp.ReportsV2.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.ReportsV2.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.ReportsV2.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Validation.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Validation.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Security.Xpo.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Xpo.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Xpo.v21.2">
+    <Reference Include="DevExpress.ExpressApp.ConditionalAppearance.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.ConditionalAppearance.v21.2">
+    <Reference Include="DevExpress.RichEdit.v17.2.Export">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v21.2.Export">
+    <Reference Include="DevExpress.Printing.v17.2.Core">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Printing.v21.2.Core">
+    <Reference Include="DevExpress.Data.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.v21.2">
+    <Reference Include="DevExpress.EasyTest.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.EasyTest.v21.2">
+    <Reference Include="DevExpress.ExpressApp.AuditTrail.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.AuditTrail.v21.2">
+    <Reference Include="DevExpress.ExpressApp.CloneObject.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.CloneObject.v21.2">
+    <Reference Include="DevExpress.ExpressApp.FileAttachment.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.FileAttachment.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.HtmlPropertyEditor.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.HtmlPropertyEditor.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Images.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Objects.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Objects.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.PivotChart.v21.2">
+    <Reference Include="DevExpress.ExpressApp.PivotChart.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.PivotChart.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.PivotChart.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Scheduler.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Scheduler.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Scheduler.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Scheduler.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.ScriptRecorder.v21.2">
+    <Reference Include="DevExpress.ExpressApp.ScriptRecorder.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.ScriptRecorder.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.ScriptRecorder.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Security.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Security.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.v21.2">
+    <Reference Include="DevExpress.ExpressApp.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Validation.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Validation.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.ViewVariantsModule.v21.2">
+    <Reference Include="DevExpress.ExpressApp.ViewVariantsModule.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Persistent.Base.v21.2">
+    <Reference Include="DevExpress.Persistent.Base.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Persistent.BaseImpl.v21.2">
+    <Reference Include="DevExpress.Persistent.BaseImpl.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.Desktop.v21.2">
+    <Reference Include="DevExpress.Utils.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v21.2">
+    <Reference Include="DevExpress.Web.ASPxHtmlEditor.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxHtmlEditor.v21.2">
+    <Reference Include="DevExpress.Web.ASPxPivotGrid.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxPivotGrid.v21.2">
+    <Reference Include="DevExpress.Web.ASPxScheduler.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxScheduler.v21.2">
+    <Reference Include="DevExpress.Web.ASPxSpellChecker.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxSpellChecker.v21.2">
+    <Reference Include="DevExpress.Web.ASPxThemes.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.ASPxThemes.v21.2">
+    <Reference Include="DevExpress.Web.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Web.v21.2">
+    <Reference Include="DevExpress.Xpo.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Xpo.v21.2">
+    <Reference Include="DevExpress.XtraBars.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraBars.v21.2">
+    <Reference Include="DevExpress.Charts.v17.2.Core">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Charts.v21.2.Core">
+    <Reference Include="DevExpress.XtraCharts.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v21.2">
+    <Reference Include="DevExpress.XtraCharts.v17.2.Web">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v21.2.Web">
+    <Reference Include="DevExpress.XtraEditors.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v21.2">
+    <Reference Include="DevExpress.XtraReports.v17.2.Extensions">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraReports.v21.2.Extensions">
+    <Reference Include="DevExpress.XtraScheduler.v17.2.Core">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraScheduler.v21.2.Core.Desktop">
+    <Reference Include="DevExpress.PivotGrid.v17.2.Core">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraScheduler.v21.2.Core">
+    <Reference Include="DevExpress.XtraPivotGrid.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.PivotGrid.v21.2.Core">
+    <Reference Include="DevExpress.Sparkline.v17.2.Core">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraPivotGrid.v21.2">
+    <Reference Include="DevExpress.CodeParser.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Sparkline.v21.2.Core">
+    <Reference Include="DevExpress.XtraReports.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.CodeParser.v21.2">
+    <Reference Include="DevExpress.XtraReports.v17.2.Web">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraReports.v21.2">
+    <Reference Include="DevExpress.Office.v17.2.Core">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraReports.v21.2.Web.WebForms">
+    <Reference Include="DevExpress.RichEdit.v17.2.Core">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraReports.v21.2.Web">
+    <Reference Include="DevExpress.XtraPrinting.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Office.v21.2.Core">
+    <Reference Include="DevExpress.Images.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v21.2.Core">
+    <Reference Include="DevExpress.XtraRichEdit.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v21.2">
+    <Reference Include="DevExpress.Web.ASPxTreeList.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Images.v21.2">
+    <Reference Include="DevExpress.ExpressApp.TreeListEditors.v17.2">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraRichEdit.v21.2">
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DevExpress.Web.ASPxGantt.v21.2">
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DevExpress.Web.ASPxTreeList.v21.2">
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DevExpress.ExpressApp.TreeListEditors.v21.2">
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DevExpress.ExpressApp.TreeListEditors.Web.v21.2">
+    <Reference Include="DevExpress.ExpressApp.TreeListEditors.Web.v17.2">
       <Private>False</Private>
     </Reference>
     <Reference Include="System">

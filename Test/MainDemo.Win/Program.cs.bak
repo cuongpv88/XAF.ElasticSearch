@@ -14,7 +14,6 @@ namespace MainDemo.Win {
     public class Program {
         [STAThread]
         public static void Main(string[] arguments) {
-            DevExpress.ExpressApp.FrameworkSettings.DefaultSettingsCompatibilityMode = DevExpress.ExpressApp.FrameworkSettingsCompatibilityMode.v20_1;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 

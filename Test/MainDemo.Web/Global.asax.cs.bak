@@ -25,7 +25,6 @@ namespace MainDemo.Web {
             InitializeComponent();
         }
         protected void Application_Start(object sender, EventArgs e) {
-            DevExpress.ExpressApp.FrameworkSettings.DefaultSettingsCompatibilityMode = DevExpress.ExpressApp.FrameworkSettingsCompatibilityMode.v20_1;
             WebApplication.EnableMultipleBrowserTabsSupport = true;
             ASPxWebControl.CallbackError += new EventHandler(Application_Error);
 #if DEBUG
